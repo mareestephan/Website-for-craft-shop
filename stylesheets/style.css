@@ -68,10 +68,6 @@ p {
     list-style: none;
     margin: 0;
     padding: 0; }
-    #section-b ul li {
-      margin-bottom: 1em;
-      background: #fff;
-      color: #333; }
 
 #section-c {
   background: #fff;
@@ -91,7 +87,7 @@ p {
   color: #fff;
   text-align: center; }
   #main-footer a {
-    color: blue;
+    color: #fff;
     text-decoration: none; }
 
 @media (min-width: 700px) {
